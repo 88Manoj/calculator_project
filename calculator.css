@@ -18,7 +18,7 @@
     background:#3a4452;
     padding: 20px;
     border-radius: 10px;
-
+     box-shadow: -8px -5px 15px rgb(56, 56, 55),8px 5px 15px rgb(0,0,0.2);
 }
 
 .calculator form input{
@@ -54,7 +54,7 @@ form input.equal{
 }
 
 form input.opretor{
-    color: orange;
+    color: blue;
 }
 
 h1{
